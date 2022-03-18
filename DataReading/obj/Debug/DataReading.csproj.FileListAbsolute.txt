@@ -1,0 +1,10 @@
+C:\Users\umutc\Desktop\umut\ASP.NET\ComportDataReading\DataReading\bin\Debug\DataReading.exe.config
+C:\Users\umutc\Desktop\umut\ASP.NET\ComportDataReading\DataReading\bin\Debug\DataReading.exe
+C:\Users\umutc\Desktop\umut\ASP.NET\ComportDataReading\DataReading\bin\Debug\DataReading.pdb
+C:\Users\umutc\Desktop\umut\ASP.NET\ComportDataReading\DataReading\obj\Debug\DataReading.csproj.AssemblyReference.cache
+C:\Users\umutc\Desktop\umut\ASP.NET\ComportDataReading\DataReading\obj\Debug\DataReading.Form1.resources
+C:\Users\umutc\Desktop\umut\ASP.NET\ComportDataReading\DataReading\obj\Debug\DataReading.Properties.Resources.resources
+C:\Users\umutc\Desktop\umut\ASP.NET\ComportDataReading\DataReading\obj\Debug\DataReading.csproj.GenerateResource.cache
+C:\Users\umutc\Desktop\umut\ASP.NET\ComportDataReading\DataReading\obj\Debug\DataReading.csproj.CoreCompileInputs.cache
+C:\Users\umutc\Desktop\umut\ASP.NET\ComportDataReading\DataReading\obj\Debug\DataReading.exe
+C:\Users\umutc\Desktop\umut\ASP.NET\ComportDataReading\DataReading\obj\Debug\DataReading.pdb
